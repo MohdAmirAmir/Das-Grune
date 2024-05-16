@@ -84,6 +84,9 @@ footer .fff{
     font-size:0.7vw;
 }
 @media (max-width:600px){
+    html,body{
+        background-color:white;
+    }
     nav{
         display:flex;
         justify-content:space-between;
